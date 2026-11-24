@@ -1,0 +1,6 @@
+{
+  "name": "Inkwell",
+  "description": "A social storytelling and reading app to discover stories, read chapters, build your library, and publish your own tales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

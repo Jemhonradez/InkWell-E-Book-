@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inkwell</string>
+    <string name="nav_home">Discover</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_write">Write</string>
+    <string name="action_start_reading">Start Reading</string>
+    <string name="action_continue_reading">Continue Reading</string>
+    <string name="action_add_to_library">Add to Library</string>
+    <string name="action_in_library">In Library</string>
+    <string name="action_create_story">New Story</string>
+    <string name="action_publish">Publish</string>
+    <string name="action_save_draft">Save Draft</string>
+    <string name="empty_library_title">Your bookshelf is waiting</string>
+    <string name="empty_library_subtitle">Save stories from Discover or Browse to build your personal reading list.</string>
+    <string name="empty_write_title">Write your first story</string>
+    <string name="empty_write_subtitle">Craft chapters, pick a cover, and publish directly to your Inkwell library.</string>
+</resources>
